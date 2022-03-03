@@ -40,3 +40,13 @@ body .card__body {
   font-size: 1.15rem;
   margin-inline: 1rem;
 }
+
+@media (max-width: 400px) {
+  body .card {
+    width: auto;
+    margin-inline: 2rem;
+  }
+  body .card__title {
+    font-size: 1.5rem;
+  }
+}

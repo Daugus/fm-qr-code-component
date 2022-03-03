@@ -1,3 +1,5 @@
+// ===== variables =====
+// --- colors ---
 $clr-bg: hsl(212, 45%, 89%);
 $clr-card: hsl(0, 0%, 100%);
 $clr-title: hsl(218, 44%, 22%);
@@ -52,6 +54,19 @@ body {
       color: $clr-body;
       font-size: 1.15rem;
       margin-inline: 1rem;
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    .card {
+      width: auto;
+      margin-inline: 2rem;
+
+      &__title {
+        font-size: 1.5rem;
+      }
     }
   }
 }
