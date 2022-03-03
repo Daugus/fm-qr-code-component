@@ -1,0 +1,23 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "sass --no-source-map src/scss:src/scss/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daugus/fm-qr-code-component.git"
+  },
+  "keywords": [],
+  "author": "daugus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daugus/fm-qr-code-component/issues"
+  },
+  "homepage": "https://github.com/daugus/fm-qr-code-component#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
