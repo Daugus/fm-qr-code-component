@@ -34,5 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [daugus](https://www.dlcde.ml)
+<!-- - Website - [daugus](https://dlcde.ml) -->
+
 - Frontend Mentor - [@daugus](https://www.frontendmentor.io/profile/daugus)
